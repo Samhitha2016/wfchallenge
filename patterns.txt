@@ -1,0 +1,32 @@
+YOUR_FILES_ARE_LOCKED.txt
+read_this_file.txt
+FILES_BACK.txt
+README_.TXT
+How to decrypt your files.txt
+ransomed.html
+README HOW TO DECRYPT YOUR FILES.HTML
+^Unlock_files_(.{5})\.html$
+Read Me (How Decrypt) !!!!.txt
+ПРОЧТИ_МЕНЯ.txt
+Decryption Instructions.txt
+.How_To_Decrypt.txt
+.Contact_Here_To_Recover_Your_Files.txt
+.Where_my_files.txt
+\.Read_Me\.Txt$
+^([a-fA-F0-9]{32})\.txt$
+.How_To_Get_Back.txt
+!!!!!readme!!!!!.htm
+HOW_TO_FIX_!.txt
+SHTODELATVAM.txt
+Instructionaga.txt
+README.BMP
+READ_THIS_TO_DECRYPT.html
+How decrypt files.hta
+OKSOWATHAPPENDTOYOURFILES.TXT
+HOW_DECRYPT.TXT
+HOW_DECRYPT.HTML
+HOW_DECRYPT.URL
+READ IF YOU WANT YOUR FILES BACK.html
+README!!!.txt
+GetYouFiles.txt
+crjoker.html
